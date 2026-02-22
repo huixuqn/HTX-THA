@@ -1,4 +1,4 @@
-# HTX Take-Home Assessment — Image Processing Pipeline API
+<img width="967" height="1115" alt="image" src="https://github.com/user-attachments/assets/90542f60-557e-49e6-a973-eb3ea2a7ffe3" /># HTX Take-Home Assessment — Image Processing Pipeline API
 
 ## Project Overview
 
@@ -73,6 +73,7 @@ source .venv/bin/activate
 ### 4. Install dependencies
 
 ```
+pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
