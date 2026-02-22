@@ -82,7 +82,7 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 
-API Documentation (Swagger UI) will be available at:
+API Documentation (Swagger UI) is available at:
 
 ```
 http://127.0.0.1:8000/docs
